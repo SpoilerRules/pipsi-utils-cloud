@@ -1,0 +1,17 @@
+cheat_catalog:
+  - game_title: "Honkai Impact 3rd"
+    cheat_installation_link: "Z4ee/Pipsi-HI3-Releases"
+    installation_folder: "Pipsi-HI3"
+    is_discontinued: true
+  - game_title: "Honkai: Star Rail"
+    cheat_installation_link: "Z4ee/Pipsi-HSR-Releases"
+    installation_folder: "Pipsi-HSR"
+    is_discontinued: false
+  - game_title: "Wuthering Waves"
+    cheat_installation_link: "Z4ee/Pipsi-WW-Releases"
+    installation_folder: "Pipsi-WuWa"
+    is_discontinued: true
+  - game_title: "Zenless Zone Zero"
+    cheat_installation_link: "Z4ee/Pipsi-ZZZ-Releases"
+    installation_folder: "Pipsi-ZZZ"
+    is_discontinued: false

@@ -1,0 +1,17 @@
+installation_data:
+  - title: Honkai Impact 3rd
+    installed: false
+    installed_version: ""
+    region: None
+  - title: 'Honkai: Star Rail'
+    installed: false
+    installed_version: ""
+    region: None
+  - title: Wuthering Waves
+    installed: false
+    installed_version: ""
+    region: None
+  - title: Zenless Zone Zero
+    installed: false
+    installed_version: ""
+    region: None

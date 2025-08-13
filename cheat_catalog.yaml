@@ -4,7 +4,7 @@ cheat_catalog:
     installation_folder: "Pipsi-HI3"
     is_discontinued: true
   - game_title: "Honkai: Star Rail"
-    cheat_installation_link: "sussyhaxor1011/hsr"
+    cheat_installation_link: "Z4ee/Pipsi-HSR-Releases"
     installation_folder: "Pipsi-HSR"
     is_discontinued: false
   - game_title: "Wuthering Waves"
@@ -15,3 +15,4 @@ cheat_catalog:
     cheat_installation_link: "sussyhaxor1011/zzz"
     installation_folder: "Pipsi-ZZZ"
     is_discontinued: false
+
